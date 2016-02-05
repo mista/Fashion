@@ -7,7 +7,11 @@
 body {
     width: 100%;
     height: 100%;
+<<<<<<< HEAD
     font-family: didot,"Helvetica Neue",Helvetica,Arial,sans-serif;
+=======
+    font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
+>>>>>>> master
     color: #fff;
     background-color: #000;
 }
@@ -27,8 +31,12 @@ h6 {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+<<<<<<< HEAD
   letter-spacing: 1px;
     
+=======
+    letter-spacing: 1px;
+>>>>>>> master
 }
 
 p {
@@ -42,7 +50,10 @@ p {
         margin: 0 0 35px;
         font-size: 17px;
         line-height: 1.6;
+<<<<<<< HEAD
             font-size: 15px;
+=======
+>>>>>>> master
     }
 }
 
@@ -53,6 +64,7 @@ a {
     transition: all .2s ease-in-out;
 }
 
+<<<<<<< HEAD
 .logonavi {
     margin-top:-7px;
     width:70%;
@@ -67,6 +79,8 @@ a {
 }
 
 
+=======
+>>>>>>> master
 a:hover,
 a:focus {
     text-decoration: none;
@@ -191,8 +205,12 @@ a:focus {
     }
 
     .intro .intro-body .brand-heading {
+<<<<<<< HEAD
          margin: 0 0 15px;
         font-size: 60px;
+=======
+        font-size: 100px;
+>>>>>>> master
     }
 
     .intro .intro-body .intro-text {
